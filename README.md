@@ -7,7 +7,7 @@
   <p>Student of Computer Engineering @ UFC (Federal University of Ceará)</p>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=4682b4&size=22&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%26+Spring+Boot+Enthusiast;Learning+React+%26+Modern+Web;Building+solutions+like+SIGAC!"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=4682b4&size=22&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%26+Spring+Boot+Enthusiast;Learning+React+%26+Modern+Web;Building+solutions"/>
   </a>
 </div>
 
