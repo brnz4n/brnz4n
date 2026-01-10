@@ -1,7 +1,7 @@
 ### Olá, eu sou o Breno!
 
 - 🔭 Estudante de progamação
-- 🌱 Atualmente estudando JAVA
+- 🌱 Atualmente estudando REACT E JAVA
 - 📫 Contate-me no email: antoniobreno041045@gmail.com
 
 - <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682b4&height=120&section=header"/>
