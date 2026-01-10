@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>👋 Olá, eu sou Antonio Breno!</h2>
+  <h2>👋 Olá, eu sou Breno Magalhães!</h2>
   <p>Student of Computer Engineering @ UFC (Federal University of Ceará)</p>
   
   <a href="https://git.io/typing-svg">
