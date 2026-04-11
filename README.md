@@ -27,7 +27,7 @@
 
 <br/>
 
-### 🛠️ Tecnologias & Ferramentas
+###  Tecnologias & Ferramentas
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -50,7 +50,7 @@
 
 <br/>
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brnz4n&show_icons=true&theme=transparent&title_color=4682b4&icon_color=4682b4&text_color=999&hide_border=true" />
