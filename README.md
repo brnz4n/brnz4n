@@ -14,11 +14,11 @@
 
 ## Sobre mim
 
-- 🎓 Estudante de Engenharia de Computação na **Universidade Federal do Ceará (UFC)**
-- 💻 Desenvolvo aplicações web e mobile, do backend ao frontend
-- ☕ Backend com **Java + Spring Boot** e **Node.js + NestJS**
-- ⚛️ Frontend e mobile com **React** e **React Native**
-- 🌱 Sempre estudando arquitetura, boas práticas e novas ferramentas
+- Estudante de Engenharia de Computação na **Universidade Federal do Ceará (UFC)**
+- Desenvolvo aplicações web e mobile, do backend ao frontend
+- Backend com **Java + Spring Boot** e **Node.js + NestJS**
+- Frontend e mobile com **React** e **React Native**
+- Sempre estudando arquitetura, boas práticas e novas ferramentas
 
 <br/>
 
